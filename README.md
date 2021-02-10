@@ -23,7 +23,9 @@ Output  :
 Image not having a pothole gives "normal" output. 
 
 [[1.]]
+
 {'normal': 0, 'potholes': 1}
+
 normal
 
 
@@ -31,4 +33,6 @@ normal
 Image having pothole gives "pothole"  output.
 
 {'normal': 0, 'potholes': 1}
+
+
 pothole
