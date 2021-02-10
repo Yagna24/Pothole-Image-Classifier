@@ -20,7 +20,7 @@ Loss :
 
 Output  :
 
-Image not having a pothole gives "normal" output. 
+--> Image not having a pothole gives "normal" output. 
 
 [[1.]]
 
@@ -30,7 +30,7 @@ normal
 
 
 
-Image having pothole gives "pothole"  output.
+--> Image having pothole gives "pothole"  output.
 
 {'normal': 0, 'potholes': 1}
 
