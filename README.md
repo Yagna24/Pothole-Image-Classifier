@@ -20,4 +20,6 @@ Loss :
 
 Output  :
 
+Image not having a pothole gives "normal" output. 
+
 ![Vaccine Usage Distribution](https://github.com/Yagna24/Pothole-Image-Classifier/blob/main/pot_img/output.png?raw=true)
