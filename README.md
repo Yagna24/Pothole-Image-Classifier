@@ -22,4 +22,13 @@ Output  :
 
 Image not having a pothole gives "normal" output. 
 
-![Vaccine Usage Distribution](https://github.com/Yagna24/Pothole-Image-Classifier/blob/main/pot_img/output.png?raw=true)
+[[1.]]
+{'normal': 0, 'potholes': 1}
+normal
+
+
+
+Image having pothole gives "pothole"  output.
+
+{'normal': 0, 'potholes': 1}
+pothole
